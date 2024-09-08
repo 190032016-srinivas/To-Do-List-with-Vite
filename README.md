@@ -1,9 +1,12 @@
-- this is a basic to do application
-- all the dependencies are in the package.json
+- github link https://github.com/190032016-srinivas/To-Do-List-with-Vite
 
-* DONT FORGET TO RUN \*\* NPM INSTALL
+* this is a basic to do application
+* all the dependencies are in the package.json
 
-- we need mui library for react and uuid for unique id generation
-- that is it try it out and have a nice day
+- DONT FORGET TO RUN \*\* NPM INSTALL
+- DONT FORGET TO RUN \*\* NPM INSTALL
 
-* thank you
+* we need mui library for react and uuid for unique id generation
+* that is it try it out and have a nice day
+
+- thank you
